@@ -1,0 +1,11 @@
+{
+    "name": "AI AstroPets",
+    "description": "Immersive gaming platform where players hatch, care for, and interact with AI-powered pets in a cosmic landscape.",
+    "image": "https://i.postimg.cc/0QvFjMwT/logo3.png",
+    "symbol": "ASTRO",
+    "decimals": "6",
+    "uri": "https://raw.githubusercontent.com/louisdevzz/ton-coin/refs/heads/main/metadata.json",
+    "image_data": null,
+    "amount_style": "decimal",
+    "render_type": "jetton"
+} 
